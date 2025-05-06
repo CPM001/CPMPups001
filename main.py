@@ -1,5 +1,4 @@
 #!/usr/bin/python
-
 import random
 import urllib.parse
 import requests
